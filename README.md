@@ -16,11 +16,12 @@ This project is a collaborative MERN stack single-page application, which combin
 
 ## Installation
 
-Once you have the repository cloned down from github, ensure that all dependancies are installed and that your .env file is accurate and includes all necessary information. In the CLI run "npm run develop" to spin up the react application. 
+Once you have the repository cloned down from [github](https://github.com/MHranek/spirit), ensure that all dependancies are installed and that your .env file is accurate and includes all necessary information. In the CLI run "npm run develop" to spin up the react application. 
 
 ## Usage
 
 Below is a link to a video that demos the functionality of our application.
+https://drive.google.com/file/d/1DH3QkZxcEVXB88W0zjt2RofK85v1pwzh/view
 
 ## Credits
 
