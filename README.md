@@ -2,7 +2,7 @@
 
 ## Description
 
-Spirit is a web application which allows users of legal drinking age to explore the world of creative cocktails! It leverages the CocktailDB API, and provides users with a clean and interesting experience. Users can search our application for a variety of cocktails, and when they find one they like they can save it to their own specific user list. This functionality is protected with our user authentication. 
+[Spirit](https://blooming-falls-47953.herokuapp.com/) is a web application which allows users of legal drinking age to explore the world of creative cocktails! It leverages the CocktailDB API, and provides users with a clean and interesting experience. Users can search our application for a variety of cocktails, and when they find one they like they can save it to their own specific user list. This functionality is protected with our user authentication. 
 
 This project is a collaborative MERN stack single-page application, which combines a scalable MongoDB back end, a GraphQL API, and an Express.js and Node.js server with a React front end. It implements user authentication with JWT to build a user-focused platform. 
 
